@@ -1,0 +1,8 @@
+---
+title: "STAT133 LAB8"
+author: "Amanda(Yanqian) Wu"
+date: "April 7, 2017"
+output: html_document
+---
+
+Friday, yayyyyyy
