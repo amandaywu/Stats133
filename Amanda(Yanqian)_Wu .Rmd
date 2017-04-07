@@ -1,0 +1,8 @@
+---
+title: "STAT133 LAB8"
+author: "Amanda Wu"
+date: "April 7, 2017"
+output: html_document
+---
+
+Today is Friday, yayyyyy
